@@ -1,0 +1,24 @@
+.container {
+
+
+}
+
+.item {
+	padding: 40px;
+	font-size: 25px;
+	border: 1px solid black;
+	
+	
+}
+
+.item_1 {
+color: aqua;
+}
+
+.item_2 {
+color: brown;
+}
+
+.item_3 {
+color: blueviolet;
+}
