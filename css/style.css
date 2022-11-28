@@ -7,18 +7,16 @@
 	padding: 40px;
 	font-size: 25px;
 	border: 1px solid black;
-	
-	
 }
 
 .item_1 {
-color: aqua;
+background: aqua;
 }
 
 .item_2 {
-color: brown;
+background:lightcoral;
 }
 
 .item_3 {
-color: blueviolet;
+background: lightgreen;
 }
